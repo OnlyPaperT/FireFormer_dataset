@@ -41,6 +41,8 @@ The container interior was monitored using a camera. The image below shows the i
 </p>
 
 ---
+👉 [**Internel view video**](https://drive.google.com/file/d/1R-KatON6-M9cfiwIRvz1avl7cfYP3kun/view?usp=drive_link)
+
 
 ## 📊 Fire Event Sensor Plot
 
