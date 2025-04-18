@@ -37,7 +37,7 @@ The data was collected using a custom-made aluminum foil–lined fire container.
 The container interior was monitored using a camera. The image below shows the internal view during both **fire** and **non-fire** conditions, demonstrating how the system captured CNN predictions:
 
 <p align="center">
-  <img src="Internel_view_fire_on_and_off.PNG" width="600"/>
+  <img src="inside_view.PNG" width="600"/>
 </p>
 
 ---
