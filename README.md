@@ -38,13 +38,13 @@ FireSentryV3 is trained on a **15-class image dataset**, covering 14 real-world 
 The API allows image upload or test image selection.
 
 <p align="center">
-  <img src="FiresentryV3.png" width="700"/>
+  <img src="FiresentryV3.PNG" width="700"/>
 </p>
 
 **Prediction Output:**
 
 <p align="center">
-  <img src="pre.png" width="450"/>
+  <img src="pre.PNG" width="450"/>
 </p>
 
 ---
@@ -54,19 +54,19 @@ The API allows image upload or test image selection.
 The second API allows users to input live sensor data and receive a combined CNN + Transformer + DST-based fire status.
 
 <p align="center">
-  <img src="Main_dst.png" width="420"/>
+  <img src="Main_dst.PNG" width="420"/>
 </p>
 
 **Fire Decision Result (Fire):**
 
 <p align="center">
-  <img src="fire_dst.png" width="450"/>
+  <img src="fire_dst.PNG" width="450"/>
 </p>
 
 **Fire Decision Result (No Fire):**
 
 <p align="center">
-  <img src="nofire_dst.png" width="450"/>
+  <img src="nofire_dst.PNG" width="450"/>
 </p>
 
 ---
