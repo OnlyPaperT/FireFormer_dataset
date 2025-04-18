@@ -79,7 +79,7 @@ The following videos demonstrate API functionality:
 - 🔁 **Sensor Fusion and DST Fire Decision (FireFormer + DST)**  
 
 👉 [**Watch API Working Video**](https://drive.google.com/file/d/1VTaWr-ia6uK9t6HoaYrKlwDpoUcaVdWH/view?usp=drive_link)  
-👉 [**Sensor Dataset**]([https://drive.google.com/...](https://drive.google.com/file/d/17oPw8458RQolE-f0YxzGmV3YmXW7XbDi/view?usp=drive_link))
+👉 [**Sensor Dataset**]([https://drive.google.com/...](https://drive.google.com/file/d/17oPw8458RQolE-f0YxzGmV3YmXW7XbDi/view?usp=drive_link)
 
 ---
 
