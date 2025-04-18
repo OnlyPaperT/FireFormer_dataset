@@ -32,6 +32,26 @@ The data was collected using a custom-made aluminum foil–lined fire container.
 
 ---
 
+## 🔍 Internal Monitoring Snapshot
+
+The container interior was monitored using a camera. The image below shows the internal view during both **fire** and **non-fire** conditions, demonstrating how the system captured CNN predictions:
+
+<p align="center">
+  <img src="Internel_view_fire_on_and_off.PNG" width="600"/>
+</p>
+
+---
+
+## 📊 Fire Event Sensor Plot
+
+This figure visualizes how sensor values behave during a fire event. The CNN fire label is shown as a dashed black line. The spike patterns indicate changes in gas, smoke, IR, and temperature:
+
+<p align="center">
+  <img src="sen.PNG" width="1000"/>
+</p>
+
+---
+
 ## 📷 FireSentryV3 (Fire Image Classification API)
 
 FireSentryV3 is trained on a **15-class image dataset**, covering 14 real-world fire scenarios and 1 non-fire category.  
@@ -53,6 +73,10 @@ The API allows image upload or test image selection.
 
 The second API allows users to input live sensor data and receive a combined CNN + Transformer + DST-based fire status.
 
+You can either:
+- 🔄 **Link your real-time sensor setup** to the API for continuous decision-making, or
+- 📤 **Upload your own sensor dataset** in `.csv` format to simulate and test fire predictions.
+  
 <p align="center">
   <img src="Main_dst.PNG" width="420"/>
 </p>
@@ -77,6 +101,7 @@ The following videos demonstrate API functionality:
 
 - 🔍 **Fire Image Classification (FireSentryV3)**  
 - 🔁 **Sensor Fusion and DST Fire Decision (FireFormer + DST)**  
+- 🎥 **Internal Camera Feed Showing Fire On/Off Conditions**
 
 👉 [**Watch API Working Video**](https://drive.google.com/file/d/1VTaWr-ia6uK9t6HoaYrKlwDpoUcaVdWH/view?usp=drive_link)  
 👉 [**Sensor Dataset**](https://drive.google.com/file/d/17oPw8458RQolE-f0YxzGmV3YmXW7XbDi/view?usp=drive_link)
