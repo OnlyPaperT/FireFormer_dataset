@@ -78,16 +78,15 @@ The following videos demonstrate API functionality:
 - 🔍 **Fire Image Classification (FireSentryV3)**  
 - 🔁 **Sensor Fusion and DST Fire Decision (FireFormer + DST)**  
 
-👉 [**Watch API Working Video**](https://drive.google.com/file/d/17oPw8458RQolE-f0YxzGmV3YmXW7XbDi/view?usp=drive_link)  
-👉 [**Sensor Dataset & Video Folder**](https://drive.google.com/...)
+👉 [**Watch API Working Video**](https://drive.google.com/file/d/1VTaWr-ia6uK9t6HoaYrKlwDpoUcaVdWH/view?usp=drive_link)  
+👉 [**Sensor Dataset**]([https://drive.google.com/...](https://drive.google.com/file/d/17oPw8458RQolE-f0YxzGmV3YmXW7XbDi/view?usp=drive_link))
 
 ---
 
 ## 🧪 Data Collection Process
 
 - **Sensors Used**: Smoke, Flame, Temperature, Infrared, Custom Memristor-Based Gas Sensor
-- **Sample Rate**: 1Hz over 11 continuous days
-- **Labeling**: Fire and non-fire segments were manually annotated using FireSentryV3 and real-time validation
+- **Sample Rate**: 11 continuous days
 - **Export Format**: CSV logs per session with timestamp, raw sensor values, and CNN prediction labels
 
 ---
