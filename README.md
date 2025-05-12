@@ -20,7 +20,7 @@ This project introduces a real-time, multimodal fire detection and decision-maki
 ## 🔧 Experimental Setup
 
 <p align="center">
-  <img src="img.jpeg" width="550"/>
+  <img src="control envi.png" width="550"/>
 </p>
 
 The data was collected using a custom-made aluminum foil–lined fire container. Sensor data was recorded over **11 days** under both **fire** and **non-fire** conditions.
