@@ -1,10 +1,9 @@
 # 🔥 FireFormer: Multimodal Fire Intelligence Framework
 
 This repository supports the research paper titled:  
-**A Multimodal Framework for Robust Fire
- Detection and Sensor Synopsis Using Evidential
- Fusion"**  
-(Submitted to *IEEE Transactions on Industrial Informatics*).
+**A Multimodal Fire Detection Framework With Uncertainty-Aware
+Evidential Fusion and Compact Sensor Synopsis"**  
+.
 
 ---
 
