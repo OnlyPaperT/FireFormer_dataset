@@ -11,10 +11,15 @@ Evidential Fusion and Compact Sensor Synopsis"**
 
 This project introduces a real-time, multimodal fire detection and decision-making system that integrates:
 
-- `FireSentryV3`: A CNN-based fire image classification model trained on 15 diverse classes.
-- `FireFormer`: A Transformer-based model that processes multivariate time-series data from gas, smoke, flame, infrared, and temperature sensors.
-- `DST Fusion`: Combines outputs from both models with sensor data using **Dempster–Shafer Theory**.
-- `Synopsis Generation`: Compresses meaningful fire event data for post-analysis and storage optimization.
+
+
+- `FireSentryV3`: A CNN-based visual fire classification model trained on 15 diverse fire-related image classes to extract spatial fire features and estimate visual fire probability.
+- `FireSync`: A cross-modal temporal alignment module that compensates for response delays between visual and physical sensor streams before fusion.
+- `FireFormer`: A Transformer-based temporal modeling module that processes multivariate time-series data from gas, smoke, flame, infrared, and temperature sensors.
+- `TrustNet`: An adaptive sensor reliability estimation module that assigns time-varying trust scores to physical sensors based on disagreement, sensor history, and contextual uncertainty cues.
+-  `DST Fusion`: An uncertainty-aware decision module that combines visual evidence, temporal evidence, and calibrated sensor likelihoods using Dempster–Shafer Theory.
+- `Synopsis Generation`: A compact event-level summarization module that compresses meaningful fire-event data for post-analysis, auditability, and storage optimization.
+
 
 ---
 
